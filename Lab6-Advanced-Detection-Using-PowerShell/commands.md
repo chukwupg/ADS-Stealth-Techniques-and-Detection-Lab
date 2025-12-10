@@ -1,4 +1,4 @@
-# Lab 6 – Advanced ADS Detection Using PowerShell
+# Lab 6 – Advanced ADS Detection & Reporting Using PowerShell
 
 ## List ADS for a single file
 `Get-Item filename.txt -Stream *` <br>
