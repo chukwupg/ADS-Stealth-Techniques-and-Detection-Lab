@@ -38,5 +38,5 @@ For this lab; <br>
 ### Powershell
 `Get-Content filename -Stream streamname -Raw | Set-Content new_filename.txt` <br>
 
-For this lab;
+For this lab; <br>
 `Get-Content .\hostfile.txt -Stream calc -Raw | Set-Content extracted_calcstream.txt`
