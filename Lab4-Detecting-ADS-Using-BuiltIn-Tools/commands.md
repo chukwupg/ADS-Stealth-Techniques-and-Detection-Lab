@@ -32,3 +32,11 @@ syntax <br>
 `Get-Content filename -Stream streamname` <br>
 For this lab; <br>
 `Get-Content .\hostfile.txt -Stream calc`
+
+## Extract ADS to a New Normal File
+
+### Powershell
+`Get-Content filename -Stream streamname -Raw | Set-Content new_filename.txt` <br>
+
+For this lab;
+`Get-Content .\hostfile.txt -Stream calc -Raw | Set-Content extracted_calcstream.txt`
