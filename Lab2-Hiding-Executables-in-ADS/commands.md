@@ -1,8 +1,8 @@
 # Lab 2 – Hiding Executables in ADS
 
 ## Create a working directory
-`mkdir Lab2<br>
-cd Lab2`
+`mkdir Lab2`<br>
+`cd Lab2`
 
 ## Copy a Windows binary to the directory for testing
 `copy C:\Windows\System32\calc.exe`
